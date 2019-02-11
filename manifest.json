@@ -10,11 +10,14 @@
         "construction:clay_fence_gate_3_wide": "file(entities/construction/clay_fence_gate_3_wide)",
         "jobs:potter:recipes": "file(jobs/potter/recipes/recipes.json)",
         "construction:stone_fence_gate_3_wide": "file(entities/construction/stone_fence_gate_3_wide)",
-        "jobs:mason:recipes": "file(jobs/mason/recipes/recipes.json)"
+        "jobs:mason:recipes": "file(jobs/mason/recipes/recipes.json)",
+        "construction:wooden_fence_gate_3_wide": "file(entities/construction/wooden_fence_gate_3_wide)",
+        "jobs:carpenter:recipes": "file(jobs/carpenter/recipes/recipes.json)"
     },
     "mixintos": {
         "/stonehearth/jobs/potter/recipes/recipes.json": "fence_variants:jobs:potter:recipes",
-        "/stonehearth/jobs/mason/recipes/recipes.json": "fence_variants:jobs:mason:recipes"
+        "/stonehearth/jobs/mason/recipes/recipes.json": "fence_variants:jobs:mason:recipes",
+        "/stonehearth/jobs/carpenter/recipes/recipes.json": "fence_variants:jobs:carpenter:recipes"
     },
     "overrides": {},
     "components": {},

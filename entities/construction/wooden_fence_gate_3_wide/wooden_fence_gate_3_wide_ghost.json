@@ -8,7 +8,7 @@
         "model_variants": {
             "default": {
                 "models": [
-               "file(stone_fence_gate_3_wide.qb)"
+               "file(wooden_fence_gate_3_wide.qb)"
             ]
             }
         },
@@ -34,11 +34,11 @@
     },
     "entity_data": {
         "stonehearth:catalog": {
-            "display_name": "Cobblestone Fence Gate(3 Wide)",
+            "display_name": "Picket Fence Gate(3 Wide)",
             "description": "Lets people through your fence.",
-            "icon": "file(stone_fence_gate_3_wide.png)",
+            "icon": "file(wooden_fence_gate_3_wide.png)",
             "category": "construction",
-            "material_tags": ["stone", "defense", "portal", "crafted", "gate", "stockpile_defense"]
+            "material_tags": ["wood", "defense", "portal", "crafted", "gate", "stockpile_defense"]
         }
     }
 }
